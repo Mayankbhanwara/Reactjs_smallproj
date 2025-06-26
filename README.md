@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+mini project on reactjs [background colour changing]
 # Reactjs_smallproj
 =======
 # React + Vite
